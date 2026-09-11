@@ -1,0 +1,11 @@
+{
+  "name": "luxehire-car-rental",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Luxehire Car Rental — site + backend + admin panel",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": { "node": ">=18" }
+}
